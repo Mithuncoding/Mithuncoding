@@ -1,14 +1,9 @@
 name: 🐍 Generate Snake Animation
 
 on:
-  # Run automatically every 12 hours
   schedule:
-    - cron: "0 */12 * * *"
-  
-  # Allow manual trigger
+    - cron: "0 */6 * * *" # Every 6 hours
   workflow_dispatch:
-  
-  # Run on push to main
   push:
     branches:
       - main
@@ -17,19 +12,17 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
-    
+
     steps:
-      # Generate snake animation from contribution graph
-      - name: 🐍 Generate Snake
+      - name: 🐍 Generate Beautiful Snake
         uses: Platane/snk@v3
         with:
           github_user_name: Mithuncoding
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/github-snake.gif?color_snake=#00FF00&color_dots=#000000,#0D4429,#006D32,#26A641,#39D353
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.gif?color_snake=gradient&color_dots=#ebedf0,#9be9a8,#40c463,#30a14e,#216e39
 
-      # Push generated files to output branch
       - name: 📤 Push to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:

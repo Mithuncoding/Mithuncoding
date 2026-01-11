@@ -1,243 +1,220 @@
 <!--
-    🚀 ULTIMATE GITHUB PROFILE - MITHUN 🚀
-    The most impressive GitHub profile you've ever seen!
+    ⚡ WORLD-CLASS GITHUB PROFILE ⚡
+    Created by: Mithun
+    Version: 2.0 - Premium Edition
 -->
 
 <div align="center">
 
-<!-- PREMIUM 3D HEADER WITH PARTICLE EFFECTS -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=⚡%20MITHUN%20⚡&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=🚀%20FULL%20STACK%20DEVELOPER%20%7C%20AI%20ARCHITECT%20%7C%20INNOVATOR%20🚀&descAlignY=60&descSize=20"/>
+<!-- PREMIUM HOLOGRAPHIC HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=MITHUN&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20Architect%20%E2%80%A2%20Innovator&descAlignY=55&descSize=18"/>
 
-<!-- ANIMATED MATRIX STYLE INTRO -->
+<!-- ANIMATED INTRO -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=%24+sudo+access+--granted;%24+loading+neural_networks...+%E2%9C%93;%24+deploying+innovation.exe...+%E2%9C%93;%F0%9F%94%A5+WELCOME+TO+THE+MATRIX+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%9A%80+Building+the+future%2C+one+commit+at+a+time;%F0%9F%92%A1+AI+%7C+Full+Stack+%7C+Innovation;%E2%9C%A8+Let's+create+something+amazing!" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- ANIMATED STATUS BADGES -->
-<p>
-  <img src="https://img.shields.io/badge/🔥_STATUS-BUILDING_THE_FUTURE-00FF00?style=for-the-badge&labelColor=000000"/>
-  <img src="https://img.shields.io/badge/🎯_FOCUS-AI_&_WEB_DEV-FF0055?style=for-the-badge&labelColor=000000"/>
-  <img src="https://img.shields.io/badge/☕_FUEL-INFINITE_COFFEE-8B4513?style=for-the-badge&labelColor=000000"/>
-</p>
-
-<!-- SOCIAL BADGES WITH GLOW EFFECT -->
-<p>
-<a href="https://linkedin.com/in/mithun-r1">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/Mithuncoding">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="mailto:mithungowda5694@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://instagram.com/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-</p>
-
-<!-- PROFILE VIEWS COUNTER -->
-<img src="https://komarev.com/ghpvc/?username=Mithuncoding&style=for-the-badge&color=00FF00&label=👁️+PROFILE+VIEWS"/>
-
-</div>
-
----
-
-<!-- QUICK INFO CARDS -->
-<div align="center">
-<table>
-<tr>
-<td align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Awal/Tarikul-Islam-Awal/output/matrix.gif" width="50"/>
-<br/>
-<b>📍 LOCATION</b>
-<br/>
-Bangalore, India 🇮🇳
-</td>
-<td align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="50"/>
-<br/>
-<b>💼 ROLE</b>
-<br/>
-Full Stack AI Engineer
-</td>
-<td align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50"/>
-<br/>
-<b>🎓 STATUS</b>
-<br/>
-Always Learning
-</td>
-<td align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="50"/>
-<br/>
-<b>🚀 MISSION</b>
-<br/>
-Build the Future
-</td>
-</tr>
-</table>
-</div>
-
----
-
-## 🐍 Watch My Contributions Get Eaten!
-
-<div align="center">
-  
-<!-- SNAKE EATING CONTRIBUTIONS - DARK MODE -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mithuncoding/Mithuncoding/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mithuncoding/Mithuncoding/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Mithuncoding/Mithuncoding/output/github-snake.svg" />
-</picture>
-
-</div>
-
----
-
-## 🎮 Play Some Games! (Yes, really!)
-
-<div align="center">
-
-<a href="https://playtictactoe.org/">
-  <img src="https://img.shields.io/badge/🎯_TIC_TAC_TOE-Play_Now!-FF6B6B?style=for-the-badge&labelColor=000000"/>
-</a>
-<a href="https://play2048.co/">
-  <img src="https://img.shields.io/badge/🧩_2048-Play_Now!-F9C80E?style=for-the-badge&labelColor=000000"/>
-</a>
-<a href="https://www.mathsisfun.com/games/memory/index.html">
-  <img src="https://img.shields.io/badge/🧠_MEMORY-Play_Now!-7B68EE?style=for-the-badge&labelColor=000000"/>
-</a>
-<a href="https://playsnake.org/">
-  <img src="https://img.shields.io/badge/🐍_SNAKE-Play_Now!-00FF00?style=for-the-badge&labelColor=000000"/>
-</a>
+<!-- ANIMATED GIF DECORATION -->
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"/>
 
 <br/><br/>
 
-<!-- SPOTIFY - NOW PLAYING -->
-<!-- Uncomment and add your Spotify integration if you want
-[![Spotify](https://novatorem-mithuncoding.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_USER)
--->
+<!-- PREMIUM BADGES -->
+<p>
+  <a href="https://linkedin.com/in/mithun-r1">
+    <img src="https://img.shields.io/badge/-Mithun-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:mithungowda5694@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Mithuncoding">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
+  </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=Mithuncoding&style=for-the-badge&color=667eea&label=Profile+Views"/>
 
 </div>
 
 ---
 
-## ⚡ Terminal: About Me
+<!-- ABOUT SECTION -->
 
-```bash
-┌──(mithun㉿kali)-[~/about-me]
-└─$ cat mithun.json
+## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30"/> About Me
 
-{
-    "name": "Mithun",
-    "title": "Full Stack Developer & AI Enthusiast",
-    "location": "Bangalore, India 🇮🇳",
-    "education": "Computer Science Engineering",
-    "interests": [
-        "🤖 Artificial Intelligence",
-        "🌐 Full Stack Development",
-        "📱 Mobile Development",
-        "🔬 Research & Innovation",
-        "🎨 UI/UX Design"
-    ],
-    "currently_working_on": "AI-powered research tools",
-    "learning": ["LLMs", "System Design", "Cloud Architecture"],
-    "hobbies": ["Coding", "Gaming", "Reading Tech Blogs"],
-    "life_motto": "Code. Create. Innovate. Repeat."
-}
+<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-┌──(mithun㉿kali)-[~/about-me]
-└─$ echo "Let's build something amazing together! 🚀"
+```javascript
+const mithun = {
+  location: "Bangalore, India 🇮🇳",
+  education: "Computer Science Engineering",
+  roles: ["Full Stack Developer", "AI Engineer", "Innovator"],
+  currentFocus: "Building AI-powered applications",
+
+  skills: {
+    languages: ["Python", "JavaScript", "TypeScript", "Java", "C++"],
+    frontend: ["React", "Next.js", "Vue", "Tailwind CSS"],
+    backend: ["Node.js", "Express", "FastAPI", "Django"],
+    ai_ml: ["TensorFlow", "PyTorch", "LangChain", "OpenAI"],
+    databases: ["MongoDB", "PostgreSQL", "Redis", "Firebase"],
+    cloud: ["AWS", "GCP", "Docker", "Kubernetes"],
+  },
+
+  motto: "Code. Create. Innovate. Repeat. 🚀",
+};
 ```
 
----
-
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
-### 💻 Languages
-
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,cpp,c,go,rust&perline=8&theme=dark" />
-
-### 🌐 Frontend
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,svelte,tailwind,sass,html&perline=8&theme=dark" />
-
-### ⚙️ Backend & Database
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,mongodb,postgres,redis,firebase&perline=8&theme=dark" />
-
-### 🤖 AI/ML & Tools
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,docker,kubernetes,aws,gcp,git&perline=8&theme=dark" />
-
-</div>
+<br clear="both"/>
 
 ---
 
-## 📊 GitHub Analytics
+<!-- 3D CONTRIBUTION CALENDAR -->
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30"/> Contribution Calendar
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mithuncoding&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF&count_private=true"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Mithuncoding&theme=chartreuse-dark&hide_border=true&background=0D1117&stroke=00FF00&ring=00FF00&fire=FF0000&currStreakLabel=00FF00"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mithuncoding/Mithuncoding/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mithuncoding/Mithuncoding/output/github-contribution-grid-snake.svg" />
+  <img alt="github-contribution-grid-snake" src="https://raw.githubusercontent.com/Mithuncoding/Mithuncoding/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
-<br/>
+<br/><br/>
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mithuncoding&layout=donut-vertical&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF"/>
+<!-- CONTRIBUTION ACTIVITY GRAPH -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mithuncoding&bg_color=0d1117&color=667eea&line=764ba2&point=f093fb&area=true&hide_border=true&custom_title=📈%20Contribution%20Activity" width="100%"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+<!-- TECH STACK WITH ANIMATIONS -->
+
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"/> Tech Stack
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mithuncoding&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=15"/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4c72-9eb5-c2db5e2a5a0e.gif" width="80"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628571e.gif" width="80"/>
+<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="80"/>
+
+<br/><br/>
+
+### Languages & Frameworks
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,go,rust,kotlin&perline=8&theme=dark" />
+
+### Frontend Development
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,svelte,tailwind,sass,html,css&perline=9&theme=dark" />
+
+### Backend & Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,flask,mongodb,postgres,redis,mysql&perline=9&theme=dark" />
+
+### AI/ML & Cloud
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,aws,gcp,azure,docker,kubernetes&perline=8&theme=dark" />
+
+### Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux,vercel,netlify&perline=8&theme=dark" />
+
 </div>
 
 ---
 
-## 📈 Contribution Graph
+<!-- GITHUB STATS -->
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="30"/> GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mithuncoding&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF&area=true&hide_border=true&custom_title=💻%20Contribution%20Activity"/>
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mithuncoding&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&count_private=true" alt="GitHub Stats"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Mithuncoding&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=f093fb&currStreakLabel=667eea" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mithuncoding&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9"/>
+
 </div>
 
 ---
 
-## 🌟 Featured Projects
+<!-- GITHUB TROPHIES -->
+
+## <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="30"/> Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mithuncoding&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10"/>
+</div>
+
+---
+
+<!-- FEATURED PROJECTS -->
+
+## <img src="https://user-images.githubusercontent.com/74038190/216121986-1a506a75-2571-48d9-8a10-5deb90d9e059.png" width="30"/> Featured Projects
 
 <div align="center">
 
 <a href="https://github.com/Mithuncoding/PRISM">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mithuncoding&repo=PRISM&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=FFFFFF"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mithuncoding&repo=PRISM&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2"/>
 </a>
 
-<!-- Add more pinned repos as needed -->
-
 </div>
 
 ---
 
-## 💡 Random Dev Quote
+<!-- NOW PLAYING -->
+
+## <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="30"/> Currently Vibing To
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it%27s%20bad.&author=Cory%20House"/>
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31qjuxqmw2d2djpxcbymg3xglsiy&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color=667eea"/>
 </div>
 
 ---
 
-## 🎵 Vibing To
+<!-- DEV QUOTE -->
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="30"/> Dev Quote
 
 <div align="center">
-  
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31qjuxqmw2d2djpxcbymg3xglsiy&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color=00ff00"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20only%20way%20to%20do%20great%20work%20is%20to%20love%20what%20you%20do.&author=Steve%20Jobs"/>
+</div>
+
+---
+
+<!-- CONNECT SECTION -->
+
+## <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="30"/> Let's Connect!
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="300"/>
+
+<br/><br/>
+
+<a href="https://linkedin.com/in/mithun-r1">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:mithungowda5694@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/Mithuncoding?tab=repositories">
+  <img src="https://img.shields.io/badge/Projects-Explore-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+### 💬 Open for collaborations and exciting opportunities!
 
 </div>
 
@@ -250,14 +227,10 @@ Build the Future
 
 <br/>
 
-### 🤝 Let's Connect and Build Something Amazing!
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+%F0%9F%99%8F;Star+%E2%AD%90+my+repos+if+you+like+them!;Let's+build+something+amazing+together!" alt="Footer SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+🙏;Let's+collaborate+on+awesome+projects!;Drop+a+⭐+if+you+like+what+you+see!" alt="Footer SVG" />
+<br/><br/>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer&animation=twinkling"/>
-
-<b>⚡ Made with 💚 and lots of ☕ ⚡</b>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=120&section=footer"/>
 
 </div>
