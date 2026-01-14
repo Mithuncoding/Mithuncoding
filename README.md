@@ -7,11 +7,11 @@
 <div align="center">
 
 <!-- PREMIUM HOLOGRAPHIC HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=MITHUN&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20Architect%20%E2%80%A2%20Innovator&descAlignY=55&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=MITHUN&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Innovator&descSize=20&descAlignY=55"/>
 
 <!-- ANIMATED INTRO -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%9A%80+Building+the+future%2C+one+commit+at+a+time;%F0%9F%92%A1+AI+%7C+Full+Stack+%7C+Innovation;%E2%9C%A8+Let's+create+something+amazing!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Welcome+to+my+Digital+Universe!+%F0%9F%8C%8C;Building+the+Future+with+Code+%F0%9F%9A%80;AI+%7C+Full+Stack+%7C+Innovation+%E2%9C%A8"/>
 </a>
 
 <br/>
@@ -75,7 +75,9 @@ const mithun = {
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30"/> Contribution Calendar
 
 <div align="center">
-  
+
+### 🐍 Snake Game Animation
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mithuncoding/Mithuncoding/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mithuncoding/Mithuncoding/output/github-contribution-grid-snake.svg" />
@@ -84,8 +86,20 @@ const mithun = {
 
 <br/><br/>
 
+### 📊 Normal Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Mithuncoding&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Mithuncoding&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=true" />
+  <img alt="github-stats" src="https://github-readme-stats.vercel.app/api?username=Mithuncoding&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9" width="49%"/>
+</picture>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mithuncoding&theme=tokyonight" width="90%"/>
+
+<br/><br/>
+
 <!-- CONTRIBUTION ACTIVITY GRAPH -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mithuncoding&bg_color=0d1117&color=667eea&line=764ba2&point=f093fb&area=true&hide_border=true&custom_title=📈%20Contribution%20Activity" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mithuncoding&bg_color=0d1117&color=667eea&line=764ba2&point=f093fb&area=true&hide_border=true&custom_title=📈%20Contribution%20Activity" width="95%"/>
 
 </div>
 
@@ -136,9 +150,9 @@ const mithun = {
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mithuncoding&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&count_private=true" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mithuncoding&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Mithuncoding&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=f093fb&currStreakLabel=667eea" alt="GitHub Streak"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Mithuncoding&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=f093fb&currStreakLabel=667eea"/>
 
 <br/><br/>
 
@@ -177,7 +191,7 @@ const mithun = {
 ## <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="30"/> Currently Vibing To
 
 <div align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31qjuxqmw2d2djpxcbymg3xglsiy&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color=667eea"/>
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31qjuxqmw2d2djpxcbymg3xglsiy&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color=667eea&bar_color_cover=true"/>
 </div>
 
 ---
@@ -227,7 +241,7 @@ const mithun = {
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+%F0%9F%99%8F;Star+%E2%AD%90+my+repos+if+you+like+them!;Let's+build+something+amazing+together!" alt="Footer SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+%F0%9F%99%8F;Star+my+repos+if+you+find+them+useful!+%E2%AD%90;Let%27s+connect+and+build+something+amazing!+%F0%9F%A4%9D"/>
 
 <br/><br/>
 
