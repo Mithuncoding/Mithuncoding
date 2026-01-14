@@ -86,15 +86,13 @@ const mithun = {
 
 <br/><br/>
 
-### 📊 Normal Contribution Graph
+### 📊 GitHub Contribution Graph
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Mithuncoding&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Mithuncoding&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=true" />
-  <img alt="github-stats" src="https://github-readme-stats.vercel.app/api?username=Mithuncoding&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9" width="49%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/764ba2/Mithuncoding" />
+  <source media="(prefers-color-scheme: light)" srcset="https://ghchart.rshah.org/667eea/Mithuncoding" />
+  <img alt="Mithuncoding's GitHub Contribution Graph" src="https://ghchart.rshah.org/764ba2/Mithuncoding" />
 </picture>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mithuncoding&theme=tokyonight" width="90%"/>
 
 <br/><br/>
 
