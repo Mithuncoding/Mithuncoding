@@ -1,248 +1,179 @@
-<!--
-    ⚡ WORLD-CLASS GITHUB PROFILE ⚡
-    Created by: Mithun
-    Version: 2.0 - Premium Edition
--->
-
 <div align="center">
 
-<!-- PREMIUM HOLOGRAPHIC HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=MITHUN&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Innovator&descSize=20&descAlignY=55"/>
-
-<!-- ANIMATED INTRO -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Welcome+to+my+Digital+Universe!+%F0%9F%8C%8C;Building+the+Future+with+Code+%F0%9F%9A%80;AI+%7C+Full+Stack+%7C+Innovation+%E2%9C%A8"/>
-</a>
-
-<br/>
-
-<!-- ANIMATED GIF DECORATION -->
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"/>
-
-<br/><br/>
-
-<!-- PREMIUM BADGES -->
-<p>
-  <a href="https://linkedin.com/in/mithun-r1">
-    <img src="https://img.shields.io/badge/-Mithun-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:mithungowda5694@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Mithuncoding">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
-  </a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=Mithuncoding&style=for-the-badge&color=667eea&label=Profile+Views"/>
-
-</div>
-
----
-
-<!-- ABOUT SECTION -->
-
-## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30"/> About Me
-
-<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
-
-```javascript
-const mithun = {
-  location: "Bangalore, India 🇮🇳",
-  education: "Computer Science Engineering",
-  roles: ["Full Stack Developer", "AI Engineer", "Innovator"],
-  currentFocus: "Building AI-powered applications",
-
-  skills: {
-    languages: ["Python", "JavaScript", "TypeScript", "Java", "C++"],
-    frontend: ["React", "Next.js", "Vue", "Tailwind CSS"],
-    backend: ["Node.js", "Express", "FastAPI", "Django"],
-    ai_ml: ["TensorFlow", "PyTorch", "LangChain", "OpenAI"],
-    databases: ["MongoDB", "PostgreSQL", "Redis", "Firebase"],
-    cloud: ["AWS", "GCP", "Docker", "Kubernetes"],
-  },
-
-  motto: "Code. Create. Innovate. Repeat. 🚀",
-};
-```
-
-<br clear="both"/>
-
----
-
-<!-- 3D CONTRIBUTION CALENDAR -->
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30"/> Contribution Calendar
-
-<div align="center">
-
-### 🐍 Snake Game Animation
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mithuncoding/Mithuncoding/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mithuncoding/Mithuncoding/output/github-contribution-grid-snake.svg" />
-  <img alt="github-contribution-grid-snake" src="https://raw.githubusercontent.com/Mithuncoding/Mithuncoding/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-<br/><br/>
-
-### 📊 GitHub Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/764ba2/Mithuncoding" />
-  <source media="(prefers-color-scheme: light)" srcset="https://ghchart.rshah.org/667eea/Mithuncoding" />
-  <img alt="Mithuncoding's GitHub Contribution Graph" src="https://ghchart.rshah.org/764ba2/Mithuncoding" />
-</picture>
-
-<br/><br/>
-
-<!-- CONTRIBUTION ACTIVITY GRAPH -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mithuncoding&bg_color=0d1117&color=667eea&line=764ba2&point=f093fb&area=true&hide_border=true&custom_title=📈%20Contribution%20Activity" width="95%"/>
-
-</div>
-
----
-
-<!-- TECH STACK WITH ANIMATIONS -->
-
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"/> Tech Stack
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80"/>
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80"/>
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4c72-9eb5-c2db5e2a5a0e.gif" width="80"/>
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80"/>
-<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628571e.gif" width="80"/>
-<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="80"/>
-
-<br/><br/>
-
-### Languages & Frameworks
-
-<img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,go,rust,kotlin&perline=8&theme=dark" />
-
-### Frontend Development
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,svelte,tailwind,sass,html,css&perline=9&theme=dark" />
-
-### Backend & Database
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,flask,mongodb,postgres,redis,mysql&perline=9&theme=dark" />
-
-### AI/ML & Cloud
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,aws,gcp,azure,docker,kubernetes&perline=8&theme=dark" />
-
-### Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux,vercel,netlify&perline=8&theme=dark" />
-
-</div>
-
----
-
-<!-- GITHUB STATS -->
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="30"/> GitHub Analytics
-
-<div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mithuncoding&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Mithuncoding&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=f093fb&currStreakLabel=667eea"/>
-
-<br/><br/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mithuncoding&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9"/>
-
-</div>
-
----
-
-<!-- GITHUB TROPHIES -->
-
-## <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="30"/> Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mithuncoding&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10"/>
-</div>
-
----
-
-<!-- FEATURED PROJECTS -->
-
-## <img src="https://user-images.githubusercontent.com/74038190/216121986-1a506a75-2571-48d9-8a10-5deb90d9e059.png" width="30"/> Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/Mithuncoding/PRISM">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mithuncoding&repo=PRISM&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2"/>
-</a>
-
-</div>
-
----
-
-<!-- NOW PLAYING -->
-
-## <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="30"/> Currently Vibing To
-
-<div align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31qjuxqmw2d2djpxcbymg3xglsiy&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color=667eea&bar_color_cover=true"/>
-</div>
-
----
-
-<!-- DEV QUOTE -->
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="30"/> Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20only%20way%20to%20do%20great%20work%20is%20to%20love%20what%20you%20do.&author=Steve%20Jobs"/>
-</div>
-
----
-
-<!-- CONNECT SECTION -->
-
-## <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="30"/> Let's Connect!
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="300"/>
-
-<br/><br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2980,100:26d0ce&height=180&section=header&text=Mithun&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20DevOps%20%26%20Automation%20%C2%B7%20AI%20Systems&descSize=18&descAlignY=60"/>
 
 <a href="https://linkedin.com/in/mithun-r1">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:mithungowda5694@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://github.com/Mithuncoding?tab=repositories">
-  <img src="https://img.shields.io/badge/Projects-Explore-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/Mithuncoding">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-<br/><br/>
-
-### 💬 Open for collaborations and exciting opportunities!
+<img src="https://komarev.com/ghpvc/?username=Mithuncoding&style=for-the-badge&color=1a2980&label=Profile+Views"/>
 
 </div>
 
 ---
 
-<!-- ANIMATED FOOTER -->
+## About
+
+I'm an early-career software engineer focused on the intersection of **backend development, DevOps automation, and applied AI**. I like building systems that are reproducible, automated, and actually shipped — from rootless container platforms provisioned with Ansible to local-first AI applications built on RAG pipelines.
+
+Most of my work sits somewhere between writing code and running it reliably: infrastructure automation, containerization, and turning working prototypes into deployable systems. Alongside that, I'm consistently sharpening my fundamentals through Data Structures & Algorithms.
+
+- 🔧 Comfortable across the stack: Linux, containers, automation, backend, and web.
+- 🤖 Building AI applications with local models, embeddings, and retrieval pipelines.
+- 🧠 Practicing DSA regularly with a long-term focus on strong technical interviews.
+
+---
+
+## Currently
+
+- **Full-time software engineer**, continuing to grow after my internship.
+- Previously **interned at Hewlett Packard Enterprise (HPE), Bangalore** in a **DevOps & Automation** role — working with Linux, Ansible, Podman, rootless containers, Nginx, and self-hosted infrastructure.
+- Recently graduated in **Information Science / Computer Engineering (2026)**.
+
+---
+
+## Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+**Software / Web Development**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**DevOps & Infrastructure**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![Podman](https://img.shields.io/badge/Podman-892CA0?style=flat-square&logo=podman&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Gitea](https://img.shields.io/badge/Gitea-609926?style=flat-square&logo=gitea&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white)
+
+**AI / ML**
+
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG%20%2F%20Embeddings-4B8BBE?style=flat-square&logo=databricks&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+**Tools & Platforms**
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+---
+
+## Featured Projects
+
+### 🚀 ContainerForge — *Automated Rootless Container Platform with a Self-Hosted Git Server*
+A two-VM platform provisioned entirely with Ansible: **VM1** runs the Ansible control node, a Gitea server, and an Nginx HTTPS reverse proxy, while **VM2** hosts applications with **rootless Podman**. A multi-container stack (Nginx + PHP + MariaDB) is deployed via Podman Compose.
+> **Stack:** Ansible · Podman · Podman Compose · Gitea · Nginx · Linux · YAML
+> **Why it's interesting:** End-to-end infrastructure automation with a focus on reproducibility, security, and rootless containerization — infrastructure treated as code, not clicks.
+
+### 🧭 CareerPilot AI — *Local-first AI career assistant*
+A career assistant built on a **RAG-style architecture** running against **local LLMs**, with document/PDF ingestion, embeddings, and vector retrieval — no cloud dependency required.
+> **Stack:** Python · Ollama · Gemma · Embeddings · Vector DB · Streamlit
+> **Why it's interesting:** Demonstrates practical AI application architecture and privacy-friendly, offline-capable inference.
+
+### 🌱 PlantCare AI — *AI-powered farming assistant (hackathon winner)*
+An AI-driven plant/crop care concept built under time constraints that won a college hackathon.
+> **Stack:** Python · AI/ML · Web
+> **Why it's interesting:** Shipping a working, judged product fast — product thinking plus applied AI under pressure.
+
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
+<a href="https://github.com/Mithuncoding?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore%20all%20repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## What I'm Sharpening
+
+Areas I'm actively investing in right now:
+
+`Data Structures & Algorithms` · `Linux & Systems` · `DevOps Automation` · `Containers` · `Backend Engineering` · `AI Applications` · `System Design`
+
+---
+
+## Problem Solving
+
+I practice interview-level problem solving consistently with **Python** on **LeetCode / NeetCode**, working through core patterns:
+
+`Arrays` · `Strings` · `Hashing` · `Sliding Window` · `Two Pointers` · `Prefix / Suffix` · `Stack / Queue` · `Binary Search`
+
+The goal is depth over volume — understanding *why* a pattern works, not just memorizing solutions.
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mithuncoding&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=26d0ce&icon_color=1a2980&text_color=c9d1d9"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Mithuncoding&theme=tokyonight&hide_border=true&background=0D1117&stroke=26d0ce&ring=1a2980&fire=26d0ce&currStreakLabel=26d0ce"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+%F0%9F%99%8F;Star+my+repos+if+you+find+them+useful!+%E2%AD%90;Let%27s+connect+and+build+something+amazing!+%F0%9F%A4%9D"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mithuncoding&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=26d0ce&text_color=c9d1d9&langs_count=8"/>
+
+</div>
+
+---
+
+## Achievements
+
+- 🏆 **Won a college hackathon** with an AI-powered farming / PlantCare concept.
+- 🛠️ **Built and automated a full rootless container platform** end-to-end with Ansible and Podman.
+- 🤝 Participated in multiple hackathons, shipping working projects under tight time constraints.
+
+---
+
+## Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/mithun-r1">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:mithungowda5694@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/Mithuncoding">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=120&section=footer"/>
+<sub>Open to collaborating on DevOps automation, backend, and applied AI projects.</sub>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:26d0ce,100:1a2980&height=100&section=footer"/>
 
 </div>
