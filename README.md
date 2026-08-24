@@ -131,6 +131,14 @@ I practice interview-level problem solving consistently with **Python** on **Lee
 
 The goal is depth over volume — understanding *why* a pattern works, not just memorizing solutions.
 
+<div align="center">
+
+<a href="https://leetcode.com/u/Mithuncoding/">
+  <img src="https://leetcard.jacoblin.cool/Mithuncoding?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=12"/>
+</a>
+
+</div>
+
 ---
 
 ## GitHub Stats
